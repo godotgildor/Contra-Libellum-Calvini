@@ -1,0 +1,13 @@
+CORRECTIONS
+
+"titis" → "tilis" — OCR misread the italic word "mutilis" (split across the line break as mu-/tilis); the "l" was read as "t", producing the non-word "titis". Image clearly shows t-i-l-i-s. Reading "ex mutilis quibusdam locis" (from certain mutilated passages) is good Latin in context. (context: "Nam ex mu¬ / titis quibusdam locis, quos ex ejus Libris")
+
+"iucidisse" → "incidisse" — non-word; classic n/u confusion. "incidisse se in juvenem Gallum" (that he had fallen in with a young Gaul) is good Latin and the image supports an "n". (context: "narravit mihi quidam meus amicus, iucidisse")
+
+"sein" → "se in" — word merge; the page prints two words "se in". "incidisse se in juvenem" requires the reflexive "se" plus preposition "in". (context: "iucidisse / sein juvenem Gallum")
+
+"alterationem" → "altercationem" — OCR dropped the "c"; "alteration-" is not the intended word here. Image clearly shows "altercationem" (the dispute/altercation between Servetus and Calvin). (context: "Serveti cum Calvino alterationem Geneve")
+
+UNRESOLVED
+
+"Geneve" — printed as shown (for Genevae); period spelling / Latinized place name, left as-is. Construes; flagged only for awareness. (context: "Serveti cum Calvino altercationem Geneve, cum imprimenda foret")

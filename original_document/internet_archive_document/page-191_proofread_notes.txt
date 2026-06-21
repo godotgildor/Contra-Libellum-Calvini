@@ -1,0 +1,19 @@
+CORRECTIONS
+
+"cum bene audire" → "eum bene audire" — c/e misread; "apud cum" is not valid Latin (apud governs the accusative "eum" = "with him"). The image clearly shows "eum bene audire". (context: "ab Antichristo inire gratiam, & apud eum bene audire. En Christianos.")
+
+"repurg entur" → "repurgentur" — spurious space splitting a single word; "repurg" and "entur" are both non-words. Intended form is "repurgentur" (subj. pass.). (context: "Ita sanguine Serveti repurgentur. Ne-")
+
+"tan tundem" → "tantundem" — spurious space splitting a single word; "tan" and "tundem" are both non-words. Intended adverb is "tantundem". (context: "ut tantundem ita consequatur, & interea excu-")
+
+"accusenter" → "accusentur" — e/u misread in the verb ending; "accusenter" is not a valid Latin form. Context requires the present subjunctive passive "accusentur" ("...if they were accused"). The image is somewhat blurred at this word but the marks support "-tur". (context: "excusare se possent, si accusentur. Sed quis non")
+
+UNRESOLVED
+
+"a epurgandi" (context: "occasionem a epurgandi vos, simul ac") — The expected Latin is "expurgandi" ("occasion of cleansing/clearing you"), but the page genuinely prints "a epurgandi" with a space, and the OCR reproduces it faithfully. The marks do not support "expurgandi" as a single word; left as printed per the fidelity/minimal-diff rules. A human should verify against a higher-resolution scan whether this is a typesetting peculiarity of the 1612 edition.
+
+"circum locutione" (context: "malitiosa circum locutione id ita innuunt") — The intended word is almost certainly "circumlocutione" (by circumlocution/periphrasis), but the print shows a clear space and both "circum" and "locutione" are individually valid Latin words, so this may be the printer's own justified spacing faithfully reproduced. Left unjoined rather than force a merge; flagged for human review.
+
+"a prava mali hujus suspicione" (context: "nos a prava mali hujus suspicione") — Reads as valid Latin ("from the wicked suspicion of this evil"); left unchanged. Noted only because the phrasing is unusual; no cause to change.
+
+Marginalia: the scan shows a marginal scripture reference at right ("Gal. 1.10", beside "Si hominibus placerem Christi servus non essem"). It is absent from the OCR text, which is intentional per the marginalia-removal cleanup; not reintroduced.

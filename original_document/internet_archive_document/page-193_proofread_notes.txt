@@ -1,0 +1,24 @@
+CORRECTIONS: none
+
+The page is clean. Every token in the OCR was confirmed against the scan and reads as
+construable Latin (allowing for period spelling and proper names), so no change cleared
+both gates of Rule 1.
+
+UNRESOLVED:
+
+- Signature mark "M" omitted. The foot of the page prints a printer's signature mark
+  "M" (center) alongside the catchword "Caeterum" (right). The OCR keeps the catchword
+  but does not include the "M". This appears to be paratext that was either dropped in the
+  earlier cleanup (catchwords kept, other furniture dropped) or missed. Per Rule 10 I did
+  not reintroduce it, but a human should confirm whether the "M" signature should be
+  retained per Rule 8. (context: final line, "M    Caeterum")
+
+- "Proptera" — the page itself prints "Proptera" (no second "e"), not the expected
+  "Propterea". The OCR faithfully reflects the printed marks, and the image does not
+  support "Propterea", so it was left as printed (Gate 2 not met). Flagged in case this is
+  a printer's error a human editor wishes to note. (context: "si accusetur / Proptera quod
+  dicunt Pastores & Lectores")
+
+- "ferrum:" — the scan reads "ferrum;" (semicolon) where the OCR has a colon. Left
+  unchanged per Rules 3-4 (punctuation is not altered); noted for completeness. (context:
+  "Tolle eis / ferrum: Non magis stabunt")

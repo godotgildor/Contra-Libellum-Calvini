@@ -1,0 +1,13 @@
+CORRECTIONS
+
+"super vacaneum" → "supervacaneum" — word-split error; the image shows the word printed solid (supervacaneum, "superfluous"), and "super vacaneum" does not construe as two words here. (context: "Loqui enim super vacaneum est, ubi")
+
+"Iesa" → "Iesu" — terminal "u" misread as "a" (long-s + u, "Ieſu"); "Iesa" is a non-word, and the vocative "Iesu fili Dei" ("O Jesus, son of God") is the correct reading the page shows. (context: "ore clamabat: Iesa / fili Dei aeterni miserere mei")
+
+"Pr" → "Pri¬" — dropped final "i" and the line-end hyphen at the end of the line; the image clearly shows "Pri-" breaking to "mum" on the next line (= Primum). Hyphen retained per line-end convention. (context: "nihil loquor. Pr / mum quod res est ardua")
+
+"quaestro" → "quaestio" — "ti" misread as "r"; "quaestro" is a non-word, and the image shows "quaestio" (parallel to "hęc quaestio" earlier in the same sentence). (context: "quomodo nostros quaestro de / Coena")
+
+UNRESOLVED
+
+"vires geritur" — grammatically odd (plural "vires" with singular passive "geritur"); the sense is "where force is exercised," and the parallel later line reads "vi rem geri videt," which might suggest an intended "vis geritur." However, the page plainly shows "vires" (v-i-r-e-s), not "vis," so no warrant exists to change the letters. Left as printed; flag for human review. (context: "ubi / vires geritur: Silent enim Leges")

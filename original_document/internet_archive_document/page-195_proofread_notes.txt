@@ -1,0 +1,7 @@
+CORRECTIONS
+
+"Servets" → "Servetus" — OCR misread the terminal -us abbreviation loop as a final "s", yielding the non-word "Servets". The image clearly shows "Servet" followed by the raised -us loop (Servet⁹), i.e. the accusative... here nominative subject "Servetus captus est". Both gates met: non-word in context, and the page shows the abbreviation sign. (context: "...ijs literis lectis Servets captus est, viennę...")
+
+UNRESOLVED
+
+"iuerunt" — In "nunciatum iuerunt" the image shows the letters i-v-e-r-u-n-t, the perfect of "ire" ("nunciatum iverunt" = they went to announce). Transkribus rendered the consonantal v as "u" ("iuerunt"). This reads as the same word and was left unchanged per the u/v non-restyling rule, but a human may wish to confirm whether the project prefers "iverunt". (context: "...qui id continuo Calvino nun¬ciatum iuerunt: Calvinus...")

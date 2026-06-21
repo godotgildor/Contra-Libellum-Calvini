@@ -1,0 +1,152 @@
+<ERRATA>
+
+*The following pages reproduce the errata table printed at the end of the 1612 Telle edition. These tables record typographical errors introduced during the original typesetting and their corrections. They are retained here in the original Latin as a bibliographical record; translation into English would obscure their documentary function.*
+
+Errata Benevolus Lector sic emendabit.
+
+Folio | Linea | Erratum (Pro) | Correctum (Lege)
+A.1. | 3. | Proptetera | Propterea.
+ | 25 | concilium | consilium.
+A.1. vers. | 20 | maximeque | maximique
+A.2. vers. | 17 | puem | quem
+A.4. | 7. a fin | istanter-exagitat | instar exagitet
+A.5. vers. | 1. | finctos | tinctos
+ | 25 | Ictus | Itus (i.e. jurisconsultus
+A.8. | 8 | tractatus vicula | tractus vincula
+A.8. vers. | 11 | libris | liberis
+ | 18 | ore | re
+B.1. | 1. | amor | amantior (sum
+ | 12 | tamque insultum | tamquam insul-
+ | 19 | jaccensu queque | accensu quaeque
+B.1. vers. | 6. | coforaplixsitos | autokatakritos
+ | 8. a fin. | valeant | valeat
+B.2. | 7. | modestiam | immodestiam
+ | 16 | qum | quum
+B.3. | 14 | causaque huius-que | causam, hucusque
+ | pennit. | vidio | video
+B.4. verso. | 5. | non | nos
+B.5. | 16 | effutiri | effutire
+F.5. vers. [OCR: .7.] | 9. a fin | par | per
+ | 4. a fin | habet | habent
+B.7. verso. | 12 | nihilve | nihiine
+C.1. | 1. | perditus | perditum
+C.2. | 16 | declinantur | declinant
+ | 5. a fin. | verri | Verri
+C.2. verso. | 9. a fin | quo | aequo
+C.3. | 13 | quia | quia [sic; distinction not preserved in transcription]
+ | 23. | ritis | ritus.
+B.5. | ult. | sustinebat | sustinebant.
+C.6 verso. | 10. | fit | sit.
+ | 12. | guialis | qualis.
+ | 21. | magistris | Magistratus.
+C.7 | 15. | veritates | veritas.
+D.1. | 6. | efferveatur | efferveant.
+D.1. verso | 7. a fin. | ovium | omnium.
+D.2. | 16 | mabus | manibus
+D.3. | 18. | falicem | Felicem
+D.3. verso | 3 a fin. | conspectis | conspectus.
+D.5. | 15. | mermes | inermes.
+ | 19. | palina | palmae.
+D.5. verso | 3. | libra | libera.
+ | 5. | ipse-videtis | ipse-videris.
+D.7. verso. | 8 | minus | munus.
+ | 25. | bebeat | habeat.
+E.2. verso. | ult. | fierres | fierres [sic; distinction not preserved in transcription]
+E.3. | 11. | proservant | proterviant.
+E.3. vers. | paenult. | Christum | Christus.
+E.4. vers. | 2. | ejecet | ejecit.
+E.5. vers. | 15. | animis | annuis.
+E.6. vers. | 4. a fin. | hoc est hoc est | hoc est.
+E.7. | 18. | quo | duo.
+E.7. vers. | 25. | sumnum | summum.
+F.1. vers. | 19. | Elijnam | Elima
+F.2. | 5. | glariatur | gloriatur
+F.2. vers. | 2. | ecsia | ecclesia
+F.4. | 3. | tamque | tanquam
+ | 13. | levis | lenis
+ | 10, a fin. | discipliam | disciplinam
+F.5. vers. [OCR: P.5. vers.] | 1. | pectatum | peccatum
+F.6. | 5. a fin. | Dium | Diem
+F.7. vers. [OCR: 47. vers.] | 7. a fin. | sentiam | sententiam
+G.3. | 11. | doluisse | diluisse
+G.3. vers. | 4. a fin. | Elijmachus | Symmachus
+G.5. | 6. a fin. | Vanitates | Vanitatis
+G.5. vers. | 23. | homium | hominum
+ | 25. | multa | inulta
+G.7. | 4. | huc | hac
+G.7. vers. | 9. | quum | quin
+H.1. | 13. | Ki | Et
+H.2. vers. | 12 | societati | sociati
+H.3. | 1. | alios | alias
+H.4. vers. | 8. | quia | quia [sic; distinction not preserved in transcription]
+ | 11. | constituti | constituta
+ | 16. | quicque | quicquam
+H.7. | 11. a fin. | quæ | quod
+H.8. vers. | 2 | verba | verbo
+ | 6. | idio | ideo
+I.1. vers. | 3. a fin. | duinipo | divinipo.
+ | ibid. | jur aeconstituit | jure constituit.
+I.4. verso. | 12 | iudicaverat | indicaverat.
+ | 5. a fin. | lego | longe.
+I.5. | 23. | citaavimus | citavimus.
+I.5. vers. | 13 | contra | contrà.
+I.6. | 2 | atque etiam | etiam,
+I.6. vers. | 5. a fin | r sincetatem | sinceritatem
+I.7. vers. | 1 | cujusquam | cujusque
+I.8. | 7 | id eo | ideo
+ | 9 a fin. | beati | beatum
+I.8. ver. | 23 | igitur | propterea
+K.1. | 6 | De astrorum | Deastrorum
+K.2. | 3. a fin. | propigosis | prodigosis
+K.2. ver. | 4 | Suine | Sume
+K.3 | 8 | habeat, neque | habeat, neque [sic; distinction not preserved in transcription]
+K.3. vers. | 6. a fin. | Christquem | Christus.
+K.4. vers. | 1. | Duum | Dominum.
+ | 6. | verarittem | veritatem.
+K.5. | 7. | Geneve | Vienna.
+ | 13. | fecerit. Et &c. | distingue hoc pacto: fecerit, & insuper, quod commemorat, vel scripserit vel scribendum curaverit: Si ... eius. Et &c.
+K.6. | 2. | capites | capitis.
+K.6. verso. | 5. | indices | judices.
+K.8. | Penult. | fidi | fide
+K.8. verso. | 6. | hominem | hominum
+ | 13 | Sertus | Servetus
+ | 19 | tenentum | tenentem.
+L.1. | 10 | cum eo | cum.
+L.1. verso. | 13 | est, Paulus certo | distingue est Paulus, certe.
+ | 10. a fin. | reprehendebat | reprehendat.
+L.2. | 20. | conjuctus | convictus.
+ | 6. a fin. | sint. Sed | distingue sint, sed
+ | ult. | oportebat | oporteat
+L.2. verso. | 6. a fin. | inhumanis | inhumanis [sic; distinction not preserved in transcription]
+L.3. | 12 | tam | tamen
+L.3. vers. | 12. | & faciei | & ignem faciei
+ | 13. | ad moneri | admoveri
+L.4. | 5. | unitates | unitatis.
+L.6. vers. | 8. a fin | accidit | accedit
+L.8 | 9. | aepurgandi | repurgandi
+ | ibid. | Si idem | fidem
+ | 19 | imposita est | adde Corona
+ | 6 a fin. | ipsa | ipse
+M.4. | 1. | nunquam ob literare videretur | unquam obliterari posse videtur
+M.4. verso. | 6 | si idem | siquidem
+ | 7 | necessaria | necessario
+ | 21 | ne Ser- | non, ne Ser
+M.5. | 14 | Precum | precum
+M.5. verso. | 2 | nonnulli per Gervasianis | per Gervasianos
+ | 5 | in utire | mutire
+ | 8 | nullum | ullum
+M.6. verso. | 5. | mantisa | mantissae
+M.7. | ult. | (.) | (?)
+N.3. verso. | 16. | Apostatos | Apostatas
+N.3. | 3 | melit | melitus
+ | 4 | Adikai | Adikei [transliterated Greek, transcription approximate]
+ | 5 | nomisei Thē | nomiz ei Theout [transliterated Greek, transcription approximate]
+ | ibid. | ous hou demo nia kena eis egou mevos | ou daimomake na eisegoumenos [transliterated Greek, transcription approximate]
+ | 3 a fin. | illis | illic
+N.7. verso | 8 | ad | ac
+ | 8 a fin. | impraestarent | praestarent
+N.8 | 5 a fin. | tanque | tanquam
+N.8. verso. | 7 a fin. | spiritum | spiritu.
+O.5 | 4 a fin. | coluendis | evoluendis
+
+FINIS

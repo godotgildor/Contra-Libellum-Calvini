@@ -1,0 +1,11 @@
+CORRECTIONS: none
+
+UNRESOLVED: none
+
+Notes:
+- The page is clean; every token construes as good Latin and matches the scan.
+- "eijs" (line 4), "ijs" (lines 10, 15), "sanguinarijs" (line 12) are period spellings (-ij for -ii) and correct as printed — not changed (Rule 2/3).
+- "ipsos pascent" (line 14): image reads "paſcẽt" with a macron; expansion to "pascent" is correct.
+- "ij animam" (line 9): line begins with "ij" continuing the relative clause; image shows "animã" with macron, correctly expanded to "animam".
+- Left-margin annotation "Luc. 10." is present in the scan but correctly absent from the OCR text per the marginalia cleanup (Rule 10) — not reintroduced.
+- "Cum" (final line) is the catchword for the next page; preserved per Rule 8.

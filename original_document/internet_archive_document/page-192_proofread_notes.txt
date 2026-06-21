@@ -1,0 +1,14 @@
+CORRECTIONS
+
+"vobís" → "vobis" — OCR added a spurious acute accent; the image clearly prints plain "vobis", and "vobís" is not a valid Latin form. (context: "Vę vobis, cum de vobis benedicunt homines")
+
+"coste" → "coite" — i/s misread; the image clearly prints "coite" (from coeo, "join/come together"), which is the sense required ("join society with your Pope"). "coste" is a non-word. (context: "cum Papa vestro societeatm coite, neve amplius")
+
+
+UNRESOLVED
+
+"societeatm" — Left as the OCR has it because the printed page itself shows this jumbled form (with a macron over the "a"); it is evidently a printer's metathesis/typo for "societatem" ("society/fellowship," object of "coite"). The marks on the page support "societeatm" as printed, so this is a source error, not an OCR error. Flagged for human review. (context: "cum Papa vestro societeatm coite")
+
+"toto gens" — Left unchanged. Grammatically one would expect "tota gens" (gens is feminine), but the image plainly prints "toto" (echoing John 11:50, "ut non tota gens pereat"). The page supports "toto," so no correction made; flagged in case a higher-resolution scan or comparison with another copy clarifies. (context: "ne toto gens periret")
+
+æ / ę handling — On this page Transkribus renders the source's æ ligature and ę (e-with-tail) inconsistently into "ae" in some words ("Vae vobis" line 11 where the page shows "Væ"; "Ecclesiae" line 33 and "cerae, Ecclesiaeque" where the page shows "ę"), while keeping "ę" elsewhere ("Vę vobis" twice, "hęreti-cos"). These are the model's digraph-resolution conventions and all construe correctly, so no change was made per the rule against re-styling letterforms. Noted only for transparency.

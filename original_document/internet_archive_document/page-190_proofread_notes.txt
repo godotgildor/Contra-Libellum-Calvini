@@ -1,0 +1,11 @@
+CORRECTIONS
+
+"respond erint" → "responderint" — spurious within-line space split a single word; "erint" is not a Latin word, while "responderint" (perfect subjunctive) is correct in context and supported by the marks (Rule 6). (context: "modo respond erint, sic scribit Calvinus")
+
+"lustae" → "iustae" — first glyph misread: the image shows "iuſtæ" (i, not l); "lustae" is a non-word, "iustae" (= iuste, "justly") construes. Ending kept as "ae" per OCR's æ→ae convention. (context: "non minus sincere, quam lustae reprehensos a")
+
+UNRESOLVED
+
+"Tigurive ecclesiae" — the page plainly prints "Tigurivę" with a pointed v (distinct from the clearly arched n in "Tigurinorum" lower on the same page) and a final e-caudata. Expected Latin is "Tigurinae ecclesiae" ("the letter of the Zurich church"), so this looks like an original typesetting error (v for n) in the 1612 print, not an OCR misread. Since the marks support "v", left unchanged per the two-gate test; flagged for human review. (context: "Tigurive ecclesiae epistolam tanquam specimen")
+
+"moxdicturi" — the page sets "mox" and "dicturi" with little or no space ("mox dicturi sumus" = "we shall shortly say"). Could be two words run together, but the print shows no clear space, so left as OCR rendered it; flagged in case a split is wanted. (context: "quod moxdicturi sumus. Deinde")

@@ -1,0 +1,12 @@
+CORRECTIONS: none
+
+UNRESOLVED: none
+
+Notes for the record (no action taken — all are valid per the rules):
+- "Dolęti" and "resipiscentię" use the e-caudata (ę); printed as such on the page. Kept (Rule 3).
+- "quaeso", "aeternum", "antegressae", "aeternum" render æ as "ae"; "poene" renders œ as "oe". These match Transkribus's diphthong-resolution convention and the page (Rule 3).
+- "Eterni" (line: "Eterni Dei filium in medijs etiam flammis") is printed without a diphthong; left as-is (Gate 1 not met).
+- "heccinae" (split "hec¬ / cinae" across the line break) is the period form of "heccine"; kept with the hyphen and line break (Rules 9, valid spelling).
+- "-ij" endings ("Rabelesij", "filij", "medijs") and "quum" are correct 1612 conventions (Rule 2).
+- Marginalia visible in the scan ("Iohan.18 36." beside lines 21-22, "Nota." beside line 27) are intentionally absent from the OCR text and were not reintroduced (Rule 10).
+- The leading "quem fuisse..." (boundary continuation) and trailing catchword "de" are page furniture / boundary tokens and were left exactly as printed (Rules 8, 12).

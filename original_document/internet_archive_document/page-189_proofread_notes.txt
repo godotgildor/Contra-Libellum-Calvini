@@ -1,0 +1,13 @@
+CORRECTIONS
+
+"tea" → "rea" — First token of the page is a boundary fragment (tail of a word begun on the previous page). The image shows an initial "r" (rounded top arm, no horizontal crossbar of a "t"), giving "rea de Calvini fide". Transkribus misread r as t. Corrected only the letters present on this page; not joined or completed across the page boundary (Rule 12). (context: "...rea de Calvini fide dubitare non est nefas...")
+
+"Basilçensis" → "Basilęensis" — OCR rendered the caudata vowel as a c-cedilla ("ç"), producing a non-word. The page lists the four churches with e-caudata orthography (cf. "Tigurinę" in the same list, and "ęquitate" earlier on the page); the mark under the letter is the same caudata tail. Intended form is Basilęensis (of Basel). (context: "...Tigurinę, Bernen-/sis, Basilęensis, & Schaffusianae...")
+
+UNRESOLVED
+
+"huismo-" / "di" — Lines reading "ut soleat huismo-/di controversias" print a contracted form of hujusmodi ("huismodi"). The page genuinely prints "huismo-" with the line-end hyphen, matching the OCR; kept as-is per Rules 3 and 9. Noted only because the contraction is unusual; no change warranted. (context: "...ut soleat huismo- / di controversias...")
+
+"qui quo-" / "modo" — End of page reads "...& Schaffusianae, qui quo-/modo". The "qui quomodo" sequence is construable Latin (the Pastors, who, in whatever way...). A space between "qui" and "quo" is present on the page; kept the OCR's two-word division. The "quo-modo" hyphenation is a line-end break left intact (Rule 9). No change. (context: "...& Schaffusianae, qui quo- / modo")
+
+"Neoconi" — Proper place name (Neocomum / Neuchâtel), confirmed against the image as printed; construable as a Latinized place name, left unchanged (Rule 2). (context: "...Habet enim Neoconi Farellum...")
